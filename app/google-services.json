@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "981985537405",
+    "project_id": "mobileprog-a1378",
+    "storage_bucket": "mobileprog-a1378.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981985537405:android:b140b25cab533c7b02b014",
+        "android_client_info": {
+          "package_name": "com.fikriyuwi.mobileprog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLHvlIVppLZkPrh8iM_it0a3F_D9ZaHX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981985537405:android:b978c8630784e99902b014",
+        "android_client_info": {
+          "package_name": "com.fikriyuwi.session9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLHvlIVppLZkPrh8iM_it0a3F_D9ZaHX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
